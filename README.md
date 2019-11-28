@@ -1,2 +1,2 @@
-# au616214_Dueholm-Hansen_Alexander
-my workspace for Digital Methods for Historians 2019
+# Journals
+Learning journals in Digital Methods for Historians class
